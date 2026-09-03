@@ -41,7 +41,7 @@ You can:
 
 ## 6. Contact
 
-For questions about this privacy policy, contact: **[jheb93@gmail.com]**
+For questions about this privacy policy, contact: **[support@jeffarts.web.id]**
 
 ## 7. Changes to This Policy
 
