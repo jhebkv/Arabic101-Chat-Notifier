@@ -41,7 +41,7 @@ You can:
 
 ## 6. Contact
 
-For questions about this privacy policy, contact: **[YOUR_EMAIL@example.com]**
+For questions about this privacy policy, contact: **[jheb93@gmail.com]**
 
 ## 7. Changes to This Policy
 
