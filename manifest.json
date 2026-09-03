@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Arabic101 Chat Assistant & Notifier",
+  "version": "1.0.0",
+  "description": "Real-time floating chat widget with sound alerts, desktop notifications, and bubble-style for Arabic101 Dashboard.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://dashboard.arabic101.org/*"
+      ],
+      "js": [
+        "chat.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "storage",
+    "notifications"
+  ]
+}
